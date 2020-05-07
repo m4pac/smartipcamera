@@ -30,7 +30,9 @@ Ip Camera > Router > Rasberry Pi smartipcamera.py
 OpenCV Sürüm: 4.2.0.34
 Python Sürüm: 3.7.6
 
+
 Playsound icin:
 pip install playsound
+
 Opencv icin: 
 pip install opencv-python
