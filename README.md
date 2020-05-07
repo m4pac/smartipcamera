@@ -12,7 +12,9 @@ Hareket algılama özelliği bulunmayan, bundan dolayı hareket bazlı log alama
 -
 Log Alma
 -
-Hareket algılanan her saniye günlüğe eklenir. Bu sayede arama kolaylığı sağlanır. Ayrıca bu sistemin AVM gibi yerlerdeki güvenlik kameralarında kullanılarak günde hangi saatlerde yoğunluk olduğu vs. günlüklerden analiz edilebilir. 
+Hareket algılanan her saniye günlüğe eklenir. Bu sayede arama kolaylığı sağlanır. Kargocunun gelip gelmediğinden emin değil misin? Bunun için koskoca günün tüm kayıtlarını dakika dakika izlemek zorunda kalmana gerek yok. Hareket algılanan dakika loglarına bakarak zamandan tasarruf et :)
+
+Ayrıca bu sistemin AVM gibi yerlerdeki güvenlik kameralarında kullanılması günde hangi saatlerde yoğunluk olduğu vs. günlüklerden analiz edilebilir. 
 
 Hareket Algılama Durumunda Alarm/Müzik Çalma
 -
