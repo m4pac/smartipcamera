@@ -12,7 +12,7 @@ Hareket algılama özelliği bulunmayan, bundan dolayı hareket bazlı log alama
 -
 Log Alma
 -
-Hareket algılanan her saniye günlüğe eklenir. Bu sayede arama kolaylığı sağlanır. Kargocunun gelip gelmediğinden emin değil misin? Bunun için koskoca günün tüm kayıtlarını dakika dakika izlemek zorunda kalmana gerek yok. Hareket algılanan dakika loglarına bakarak zamandan tasarruf et :)
+Hareket algılanan her saniye günlüğe eklenir. Bu sayede arama kolaylığı sağlanır. Kargocunun gelip gelmediğinden emin değil misin? Bunun için koskoca günün tüm kayıtlarını dakika dakika izlemek zorunda değilsin. Hareket algılanan dakika loglarına bakarak zamandan tasarruf et :)
 
 Ayrıca bu sistemin AVM gibi yerlerdeki güvenlik kameralarında kullanılması günde hangi saatlerde yoğunluk olduğu vs. günlüklerden analiz edilebilir. 
 
@@ -24,3 +24,5 @@ Kaynak Kayıt Haricinde Ayrı Bir Kayıt Alma
 -
 Kayıt cihazının aldığı kayıtlar haricinde program analiz ettiği görüntüleri analiz görüntüleriyle birlikte ayrı olarak kaydeder.
 
+Örnek topoloji: 
+Ip Camera > Router > Rasberry Pi smartipcamera.py
