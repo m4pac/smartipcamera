@@ -28,8 +28,9 @@ Kayıt cihazının aldığı kayıtlar haricinde program analiz ettiği görünt
 Ip Camera > Router > Rasberry Pi smartipcamera.py
 
 OpenCV Sürüm: 4.2.0.34
-Python Sürüm: 3.7.6
 
+
+Python Sürüm: 3.7.6
 
 Playsound icin:
 pip install playsound
