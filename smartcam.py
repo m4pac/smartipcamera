@@ -1,6 +1,6 @@
 import cv2
 import time
-import playsound
+#import playsound
 
 cap = cv2.VideoCapture('rtsp://username:password@ipaddress:port')
 
@@ -38,11 +38,9 @@ while cap.isOpened():
             file.seek(0)
             file.writelines(f)
             file.close()
-            playsound.playsound('music.mp3',True) 
+            #playsound.playsound('music.mp3',True) 
         
-        #f = open("log.txt", "w")
-        #f.write(f"Log: {zamandamga}\n")
-        #f.close()
+        
     image = cv2.resize(frame1, (1280,720))
     out.write(image)
     cv2.imshow("Canli - Cam1", frame1)
